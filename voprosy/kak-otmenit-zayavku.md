@@ -22,7 +22,7 @@ coverY: 0
 
 ### **1. После** [**авторизации**](https://trudvsem.ru/auth/candidate/education-applications)**, откройте "Все сервисы" и выберите "Моё обучение"**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ### **2. Нажмите "Отозвать заявку"**&#x20;
 
