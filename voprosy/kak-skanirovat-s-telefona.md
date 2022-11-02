@@ -29,7 +29,7 @@ coverY: 0
 
 6\. Выберите документ и нажмите кнопку Скачать в правом верхнем углу.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 {% endtab %}
 
 {% tab title=""Adobe Scan" для Android" %}

@@ -26,4 +26,4 @@ coverY: 0
 
 Вставьте полученную ссылку в[ ЛК гражданина](https://lk.tgu-dpo.ru/) в поле ВК и нажмите "Сохранить".
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
