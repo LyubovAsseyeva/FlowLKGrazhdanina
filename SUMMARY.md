@@ -12,6 +12,7 @@
 * [🤳 Где найти ссылку на мою страницу ВКонтакте?](voprosy/gde-naiti-ssylku-na-moyu-stranicu-vkontakte.md)
 * [📧 Нет доступа к почте с Госуслуг](voprosy/net-dostupa-k-pochte-s-gosuslug.md)
 * [🔗 Почему я вхожу по ссылке? Безопасно ли это?](voprosy/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto.md)
+* [🧑💻 Каждый день входить в Odin по ссылке из Flow?](voprosy/kazhdyi-den-vkhodit-v-odin-po-ssylke-iz-flow.md)
 
 ## Проблемы и вопросы на каждом шаге
 
