@@ -209,6 +209,10 @@ _<mark style="color:green;"><mark style="color:blue;">Благодарим за 
 
 ![](<.gitbook/assets/image (8) (1).png>)
 
+Для категории Безработные граждане, зарегистрированные в ЦЗН поля с реквизитами цЗН будут предзаполнены, но вы можете изменить эти данные на корректные . Узнать точные данные для заполнения вы можете  после посещения ЦЗН, в договоре ручкой ЦЗН пропишет свои реквизиты.&#x20;
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Шаг 7. Проверка договора
 
 ![](<.gitbook/assets/image (24).png>)
@@ -284,7 +288,7 @@ _<mark style="color:green;"><mark style="color:blue;">Благодарим за 
 
 На данном шаге вы можете заполнить информацию по вашему резюме. После отправки резюме дополнительных действий не требуется. Оно будет сохранено автоматически.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Просмотр резюме будет доступен после доработки шага 11. &#x20;
 
