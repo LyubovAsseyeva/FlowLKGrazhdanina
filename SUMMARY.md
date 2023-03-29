@@ -13,6 +13,7 @@
 * [📧 Нет доступа к почте с Госуслуг](voprosy/net-dostupa-k-pochte-s-gosuslug.md)
 * [🔗 Почему я вхожу по ссылке? Безопасно ли это?](voprosy/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto.md)
 * [🧑💻 Каждый день входить в Odin по ссылке из Flow?](voprosy/kazhdyi-den-vkhodit-v-odin-po-ssylke-iz-flow.md)
+* [📃 Где договор, подписанный со стороны образовательной организации?](voprosy/gde-dogovor-podpisannyi-so-storony-obrazovatelnoi-organizacii.md)
 
 ## Проблемы и вопросы на каждом шаге
 
