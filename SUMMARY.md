@@ -7,6 +7,7 @@
 * [⏳ Ссылка недействительна. Что делать?](voprosy/ssylka-nedeistvitelna.-chto-delat.md)
 * [🚫 Как отменить заявку](voprosy/kak-otmenit-zayavku.md)
 * [📱 Как сканировать с телефона](voprosy/kak-skanirovat-s-telefona.md)
+* [❌ Почему документы отклонены?](voprosy/pochemu-dokumenty-otkloneny.md)
 * [✉ Адрес отправки документов](voprosy/adres-otpravki-dokumentov.md)
 * [🖨 Не распечатали копии договора](voprosy/ne-raspechatali-kopii-dogovora.md)
 * [🤳 Где найти ссылку на мою страницу ВКонтакте?](voprosy/gde-naiti-ssylku-na-moyu-stranicu-vkontakte.md)
