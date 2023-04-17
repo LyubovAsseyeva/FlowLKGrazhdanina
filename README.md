@@ -49,6 +49,10 @@ _<mark style="color:green;"><mark style="color:blue;">Благодарим за 
 * главная страница
 * страница регистрации
 
+> [**Как сканировать с телефона? Научитесь 1 раз и пользуйтесь всегда!!!**](voprosy/kak-skanirovat-s-telefona.md)
+>
+> [**Посмотреть видео для IPhone**](https://youtu.be/IH4WJ5NxcrY)**.**
+
 {% hint style="success" %}
 **Оба окна для загрузки страниц паспорта должны быть заполнены.**&#x20;
 {% endhint %}
