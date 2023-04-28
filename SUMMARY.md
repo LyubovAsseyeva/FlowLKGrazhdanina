@@ -5,7 +5,7 @@
 ## ⁉ Вопросы
 
 * [⏳ Ссылка недействительна. Что делать?](voprosy/ssylka-nedeistvitelna.-chto-delat.md)
-* [🚫 Как отменить заявку?](voprosy/kak-otmenit-zayavku.md)
+* [🚫 Как отменить заявку/отчислится?](voprosy/kak-otmenit-zayavku-otchislitsya.md)
 * [📱 Как сканировать с телефона](voprosy/kak-skanirovat-s-telefona.md)
 * [❌ Отклонены документы?](voprosy/otkloneny-dokumenty.md)
 * [⭕ Заявка просрочена](voprosy/zayavka-prosrochena.md)
