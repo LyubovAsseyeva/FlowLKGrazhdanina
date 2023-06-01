@@ -171,7 +171,7 @@ _<mark style="color:green;"><mark style="color:blue;">Благодарим за 
 
 Для категории Безработные граждане, зарегистрированные в ЦЗН поля с реквизитами цЗН будут предзаполнены, но вы можете изменить эти данные на корректные . Узнать точные данные для заполнения вы можете  после посещения ЦЗН, в договоре ручкой ЦЗН пропишет свои реквизиты.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Шаг 7. Проверка договора
 

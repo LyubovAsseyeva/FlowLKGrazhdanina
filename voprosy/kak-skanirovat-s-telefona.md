@@ -35,7 +35,7 @@ coverY: 0
 {% tab title=""Adobe Scan" для Android" %}
 Если у вас Android:
 
-1\. Откройте приложение "Adobe Scan" ![](<../.gitbook/assets/image (18).png>)или скачайте его&#x20;
+1\. Откройте приложение "Adobe Scan" ![](<../.gitbook/assets/image (18) (1).png>)или скачайте его&#x20;
 
 в Play Market.
 
