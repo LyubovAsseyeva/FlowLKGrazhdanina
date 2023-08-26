@@ -16,7 +16,7 @@
 * [🔗 Почему я вхожу по ссылке? Безопасно ли это?](voprosy/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto.md)
 * [🧑💻 Каждый день входить в Odin по ссылке из Flow?](voprosy/kazhdyi-den-vkhodit-v-odin-po-ssylke-iz-flow.md)
 * [📃 Где договор, подписанный со стороны образовательной организации?](voprosy/gde-dogovor-podpisannyi-so-storony-obrazovatelnoi-organizacii.md)
-* [Где документ о завершении обучения (скан-копия)](voprosy/gde-dokument-o-zavershenii-obucheniya-skan-kopiya.md)
+* [💼 Где документ о завершении обучения (скан-копия)](voprosy/gde-dokument-o-zavershenii-obucheniya-skan-kopiya.md)
 
 ## Проблемы и вопросы на каждом шаге
 
