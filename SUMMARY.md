@@ -18,7 +18,7 @@
 * [📃 Где договор, подписанный со стороны образовательной организации?](voprosy/gde-dogovor-podpisannyi-so-storony-obrazovatelnoi-organizacii.md)
 * [💼 Где документ о завершении обучения (скан-копия)?](voprosy/gde-dokument-o-zavershenii-obucheniya-skan-kopiya.md)
 * [✅ Где загрузить документ о занятости?](voprosy/gde-zagruzit-dokument-o-zanyatosti.md)
-* [Если я переехал во время обучения](voprosy/esli-ya-pereekhal-vo-vremya-obucheniya.md)
+* [🚗 Если я переехал во время обучения?](voprosy/esli-ya-pereekhal-vo-vremya-obucheniya.md)
 
 ## Проблемы и вопросы на каждом шаге
 
