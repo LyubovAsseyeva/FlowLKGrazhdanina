@@ -2,4 +2,4 @@
 
 Документ о занятости  можно загурзить в разделе "Обучение", кликнув  по карточке "Трудоустройство".
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
