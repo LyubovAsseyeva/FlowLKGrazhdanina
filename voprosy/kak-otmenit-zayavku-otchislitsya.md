@@ -16,7 +16,7 @@ coverY: 0
 
 Для отмены заявки в личном кабинете гражданина  нажмите кнопку **"Отозвать заявку"**.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее вы перейдёте на [портал РвР](https://trudvsem.ru), где необходимо отозвать заявку. Для этого:
 
@@ -49,7 +49,7 @@ coverY: 0
 
 Нажмите на фото, затем кнопку "**Заявление на отчисление**". Заявление на отчисление будет доступно только после добавления приказа о зачислении (обычно приказ добавляют до даты старта или в первые несколько дней после неё).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Скачайте, распечатейте и подпишите Заявление.
 
