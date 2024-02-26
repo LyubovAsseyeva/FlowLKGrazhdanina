@@ -2,19 +2,19 @@
 
 * [Добро пожаловать во Flow!](README.md)
 
-## ⁉ Вопросы
+## ⁉️ Вопросы
 
 * [⏳ Ссылка недействительна. Что делать?](voprosy/ssylka-nedeistvitelna.-chto-delat.md)
 * [🚫 Как отменить заявку/отчислиться?](voprosy/kak-otmenit-zayavku-otchislitsya.md)
 * [📱 Как сканировать с телефона](voprosy/kak-skanirovat-s-telefona.md)
 * [❌ Отклонены документы?](voprosy/otkloneny-dokumenty.md)
 * [⭕ Заявка просрочена](voprosy/zayavka-prosrochena.md)
-* [✉ Адрес отправки документов](voprosy/adres-otpravki-dokumentov.md)
-* [🖨 Не распечатали копии договора](voprosy/ne-raspechatali-kopii-dogovora.md)
+* [✉️ Адрес отправки документов](voprosy/adres-otpravki-dokumentov.md)
+* [🖨️ Не распечатали копии договора](voprosy/ne-raspechatali-kopii-dogovora.md)
 * [🤳 Где найти ссылку на мою страницу ВКонтакте?](voprosy/gde-naiti-ssylku-na-moyu-stranicu-vkontakte.md)
 * [📧 Нет доступа к почте с Госуслуг](voprosy/net-dostupa-k-pochte-s-gosuslug.md)
 * [🔗 Почему я вхожу по ссылке? Безопасно ли это?](voprosy/pochemu-ya-vkhozhu-po-ssylke-bezopasno-li-eto.md)
-* [🧑💻 Каждый день входить в Odin по ссылке из Flow?](voprosy/kazhdyi-den-vkhodit-v-odin-po-ssylke-iz-flow.md)
+* [🧑‍💻 Каждый день входить в Odin по ссылке из Flow?](voprosy/kazhdyi-den-vkhodit-v-odin-po-ssylke-iz-flow.md)
 * [📃 Где договор, подписанный со стороны образовательной организации?](voprosy/gde-dogovor-podpisannyi-so-storony-obrazovatelnoi-organizacii.md)
 * [💼 Где документ о завершении обучения (скан-копия)?](voprosy/gde-dokument-o-zavershenii-obucheniya-skan-kopiya.md)
 * [✅ Где загрузить документ о занятости?](voprosy/gde-zagruzit-dokument-o-zanyatosti.md)
@@ -32,4 +32,4 @@
 
 ## Анкета выпускника
 
-* [🅰 Анкета выпускника](anketa-vypusknika/anketa-vypusknika.md)
+* [🅰️ Анкета выпускника](anketa-vypusknika/anketa-vypusknika.md)
