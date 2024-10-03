@@ -29,7 +29,3 @@
 * [Шаг 6. Проблемы и вопросы](problemy-i-voprosy-na-kazhdom-shage/shag-6.-problemy-i-voprosy.md)
 * [Шаг 7. Проблемы и вопросы](problemy-i-voprosy-na-kazhdom-shage/shag-7.-problemy-i-voprosy.md)
 * [Шаг 8. Проблемы и вопросы](problemy-i-voprosy-na-kazhdom-shage/shag-8.-problemy-i-voprosy.md)
-
-## Анкета выпускника
-
-* [🅰️ Анкета выпускника](anketa-vypusknika/anketa-vypusknika.md)
